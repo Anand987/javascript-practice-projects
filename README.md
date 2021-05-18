@@ -1,3 +1,7 @@
-## You can see all projects in action here
+## Javasript Practice
 
-[Projects](https://www.vanillajavascriptprojects.com/)
+freeCodeCamp YouTube video - 15 javascript project from john smilga
+
+---
+
+[freeCodeCamp john-smilga course project](https://www.vanillajavascriptprojects.com/)
